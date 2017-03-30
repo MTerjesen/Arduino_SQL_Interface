@@ -1,0 +1,125 @@
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:15:34 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:01 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:16:38 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 19:17:23 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 22:48:35 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 22:48:42 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
+Log Entry : 22:49:25 15. oktober 2016
+   System.IndexOutOfRangeException: Indeksen var utenfor matrisegrensen.
+   ved Arduino_SQL_Interface.Program.Main() i F:\Dropbox\HiT\5. Semester\IA5-3-16\Arduino\Arduino_SQL_Interface\Arduino_SQL_Interface\Program.cs:linje 32
+-------------------------------
+
